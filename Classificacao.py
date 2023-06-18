@@ -5,7 +5,7 @@ from scipy.spatial.distance import cdist
 from sklearn.datasets import make_moons
 from scipy.linalg import fractional_matrix_power
 
-n = 20
+n = 200
 n_labeled = 10
 alpha = 0.99
 sigma = 0.1
